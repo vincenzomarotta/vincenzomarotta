@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vincenzo, but you can call me Vince</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincenzomarotta" alt="vincenzomarotta" /></a> </p>
-
 - 🔭 I’m currently working on **my bachelor thesis**
 
 - 🌱 I’m currently learning **Python and Kotlin**
