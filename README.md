@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vincenzo, but you can call me Vince</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-- 🔭 I’m currently working on **my bachelor thesis**
+- 🔭 I’m currently a master student on **AI**
 
-- 🌱 I’m currently learning **Python and Kotlin**
+- 🌱 I’m currently learning **Python and Neural Networks**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **everything you want :)**
 
 - 📫 How to reach me **vincen.marotta@gmail.com**
 
