@@ -7,7 +7,7 @@
 
 - 💬 Pubblications at: 
 
-- 📫 If you wanna reach me you can contact me at **vincen.marotta@gmail.com**
+- 📫 If you wanna reach me you can contact me at **vincen.marotta@gmail.com** or **vincenzo.marotta6@studenti.unina.it**
 
 - ⚡ Fun fact **Why did C++ decide to not go out with C? Because quite frankly, C just has no class**
 
