@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vincenzo, but you can call me Vince</h1>
+<h1 align="center">Hi 👋, I'm Vincenzo, but you can call me Vince!</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
 - 🔭 I’m currently a MSc student @ **Federico II University** in Naples
