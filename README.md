@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and its applications in biometric systems**
 
-- 💬 Pubblications at: 
+- 💬 Pubblications at: <a href="https://www.researchgate.net/profile/Vincenzo-Marotta-2?ev=hdr_xprf"> My ResearchGate profile </a>
 
 - 📫 If you wanna reach me you can contact me at **vincen.marotta@gmail.com** or **vincenzo.marotta6@studenti.unina.it**
 
