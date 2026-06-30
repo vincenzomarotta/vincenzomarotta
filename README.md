@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a MSc student @ **Federico II University** in Naples
 
-- 🌱 I’m currently learning **Machine Learning and its applications in biometric systems**
+- 🌱 I’m currently learning **Machine Learning and its applications in biometric systems** and **large language models**
 
 - 💬 Pubblications at: <a href="https://www.researchgate.net/profile/Vincenzo-Marotta-2?ev=hdr_xprf"> My ResearchGate profile </a>
 
